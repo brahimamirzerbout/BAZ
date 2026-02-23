@@ -1,0 +1,40 @@
+{
+  "folders": [
+    {
+      "name": "llamacoder",
+      "path": "llamacoder"
+    },
+    {
+      "name": "BAZ Homepage",
+      "path": "BAZ Homepage"
+    },
+    {
+      "name": "BAZ Ventures Academy Hub",
+      "path": "BAZ Ventures Academy Hub"
+    },
+    {
+      "name": "BAZ Ventures Brainstorm",
+      "path": "BAZ Ventures Brainstorm"
+    },
+    {
+      "name": "BAZ Ventures Deal Rooms",
+      "path": "BAZ Ventures Deal Rooms"
+    },
+    {
+      "name": "BAZ Ventures Library App",
+      "path": "BAZ Ventures Library App"
+    },
+    {
+      "name": "BAZ Ventures Platform",
+      "path": "BAZ Ventures Platform"
+    },
+    {
+      "name": "social posts dashboard",
+      "path": "social posts dashboard"
+    },
+    {
+      "name": "Socialposts-llamacoder",
+      "path": "Socialposts-llamacoder"
+    }
+  ]
+}
