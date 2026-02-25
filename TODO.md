@@ -11,8 +11,20 @@
 - [x] Wrap Social Posts Dashboard App.tsx in BAZAppShell
 - [x] Wrap BAZ Ventures Academy Hub App.tsx in BAZAppShell
 
+## BAZ-Ecosystem Unification (New)
+- [x] Create appsConfig.ts with 27+ app configurations
+- [x] Create BAZHub component for central navigation
+- [x] Create BAZAppSwitcher for quick app switching
+- [x] Enhance BAZAppShell with cross-app navigation footer
+- [x] Create @baz/supabase package for backend integration
+- [x] Create @baz/api package for API utilities
+- [x] Create .env.example with environment variables
+- [x] Update README with build/run instructions
+
 ## Next Steps
 - [ ] Test updated projects with unified UI
 - [ ] Wrap remaining projects' App.tsx in BAZAppShell (Platform, Brainstorm, Deal Rooms)
 - [ ] Replace local buttons/cards with BAZButton/BAZCard in remaining projects
 - [ ] Ensure all projects use BAZAppShell for consistent layout
+- [ ] Run `npm install && npm run dev` to verify build
+- [x] Configure Supabase and add database schemas
